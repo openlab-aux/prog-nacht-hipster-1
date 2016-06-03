@@ -20,34 +20,35 @@
   [Ressources via idris-hackers repo](https://github.com/idris-hackers)
 
 ## Wie gut ist die offizielle Doku?
-  [official dokumentation](http://docs.idris-lang.org/en/latest/effects/index.html)
-  [official FAQ](http://docs.idris-lang.org/en/latest/faq/faq.html)
-  [unofficial FAQ](https://github.com/idris-lang/Idris-dev/wiki/Unofficial-FAQ)
+  - [official dokumentation](http://docs.idris-lang.org/en/latest/effects/index.html)
+  - [official FAQ](http://docs.idris-lang.org/en/latest/faq/faq.html)
+  - [unofficial FAQ](https://github.com/idris-lang/Idris-dev/wiki/Unofficial-FAQ)
 
 ## Welche Lizenz?
   BSD-3
 
 ## Gibt es gute Bücher darüber
-  [1](https://www.manning.com/books/type-driven-development-with-idris)
-  [2](http://srchl.com/g/Seven+More+Languages+idris)
+  - [1](https://www.manning.com/books/type-driven-development-with-idris)
+  - [2](http://srchl.com/g/Seven+More+Languages+idris)
 
 ## Ist die sprache mature (gereift/stabil) 
   current version: 0.11
 
 ## Wie standardisiert ist die Sprache?
+  see Haskell Report 2010 ?
 
 ## Eigenschaften der Sprache
 
   - [ ] Imperativ
   - [X] Deklarativ/Funktional
   
-  - [ ] Kompiliert
+  - [X] Kompiliert
   - [ ] ByteCode
   - [ ] Skriptsprache
 
 ### Typsystem
 
-  - [ ] Statisch typisiert
+  - [X] Statisch typisiert
   - [ ] dynamisch typisiert
   
   - [ ] stark typisiert
@@ -63,7 +64,8 @@
 
 ## notes
 
-  - install GHC on Debian Wheezy like [here](http://www.extellisys.com/articles/haskell-on-debian-wheezy) (takes ~1,5 hrs)
+  - install GHC on Debian Wheezy like [here](http://www.extellisys.com/articles/haskell-on-debian-wheezy) (took ~1,5 hrs)
      - [Download GHC](https://www.haskell.org/ghc/download_ghc_8_0_1#linux_i386)
      - [Download cabal](http://hackage.haskell.org/package/cabal-install)
+  - install idris like [here](https://github.com/idris-lang/Idris-dev/wiki/Idris-on-Debian#idris-on-debian-wheezy)
 
