@@ -23,6 +23,10 @@
   - [official documentation](http://docs.idris-lang.org/en/latest/effects/index.html)
   - [official FAQ](http://docs.idris-lang.org/en/latest/faq/faq.html)
   - [unofficial FAQ](https://github.com/idris-lang/Idris-dev/wiki/Unofficial-FAQ)
+   
+  Random articles
+  - [crufter.com](http://crufter.com/2015/01/01/idris-a-language-which-will-change-the-way-you-think-about-programming/)
+  - [jstolark.com](http://lambda.jstolarek.com/2013/12/idris-first-impressions/)
 
 ## Welche Lizenz?
   BSD-3
