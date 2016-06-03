@@ -9,6 +9,12 @@ Erfunden in 1996.
 ## Ist es gut paketiert? In welchem OS?
 Bei ArchLinux eigentlich ganz einfach.
 
+## Wofür ist es da? Zweck? General purpose?
+
+## Wird die Sprache aktiv weiter entwickelt?
+
+## Wie groß ist die standard library?
+
 ## Wie toll ist das Ökossystem?
 
 ### Hat die Sprache einen Paketmanager?
