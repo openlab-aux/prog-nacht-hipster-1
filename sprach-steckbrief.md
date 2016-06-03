@@ -32,21 +32,26 @@
 
 ## Eigenschaften der Sprache
 
+* Paradigma
   - [ ] Imperativ
   - [ ] Deklarativ/Funktional
-  
+* Evaluation
+  - [ ] Strictly Evaluated
+  - [ ] Lazily Evaluated
+* Ausführen
   - [ ] Kompiliert
   - [ ] ByteCode
   - [ ] Skriptsprache
 
 ### Typsystem
 
+* Eigenschaft 1
   - [ ] Statisch typisiert
   - [ ] dynamisch typisiert
-  
+* Eigenschaft 2
   - [ ] stark typisiert
   - [ ] schwach typisiert
-  
+* Eigenschaft 3
   - [ ] implizit typisiert (typinferenz)
   - [ ] explizit typisiert
 
