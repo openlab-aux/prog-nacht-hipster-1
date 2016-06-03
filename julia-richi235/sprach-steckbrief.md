@@ -27,9 +27,9 @@
 ### Hat die Sprache einen Paketmanager?
     - jep hat einen eingebauten paketmanager
 
-```
-    Julia has a built-in package manager for installing add-on functionality written in Julia. It can also install external libraries using your operating system’s standard system for doing so, or by compiling from source. The list of registered Julia packages can be found at http://pkg.julialang.org. All package manager commands are found in the Pkg module, included in Julia’s Base install.
-```
+
+>   Julia has a built-in package manager for installing add-on functionality written in Julia. It can also install external libraries using your operating system’s standard system for doing so, or by compiling from source. The list of registered Julia packages can be found at http://pkg.julialang.org. All package manager commands are found in the Pkg module, included in Julia’s Base install.
+
 http://docs.julialang.org/en/release-0.4/manual/packages/
 http://pkg.julialang.org/
 
