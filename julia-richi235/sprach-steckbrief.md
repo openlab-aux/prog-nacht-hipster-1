@@ -1,10 +1,22 @@
 # Sprach-STECKBRIEF !1111!!
 
 ## Offizieller Name
-
+    Julia
 ## Wie alt/neu
-
+    - First appeared 2012
+    - also ziemlich neu 
 ## Ist es gut paketiert? In welchem OS?
+    - Version auf aktuellem Debian Testing:  0.4.5-3+b1
+    - Aktuelles stable release laut wikipedia: 0.4.5 (18.3.2016)
+      https://en.wikipedia.org/wiki/Julia_(programming_language)
+    - also gut paketiert und aktuell in debian testing
+
+## Wofür ist es da? Zweck? General purpose
+
+## Wird die Sprache aktiv weiter entwickelt?
+
+## Wie groß ist die standard library
+
 
 ## Wie toll ist das Ökossystem?
 
