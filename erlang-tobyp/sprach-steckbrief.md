@@ -1,52 +1,84 @@
 # Sprach-STECKBRIEF !1111!!
 
-## Offizieller Name
+## Official name
 
-## Wie alt/neu
+Erlang
 
-## Ist es gut paketiert? In welchem OS?
+## How old/new?
 
-## Wie toll ist das Ökossystem?
+  - 2016: First release
+  - 1998: Open source
+  - 2006: SMP support
+  - 2016: Latest release
 
-### Hat die Sprache einen Paketmanager?
+## Is it packagized well? On what OS?
 
-### Kann ich Module von anderen Sprachen nutzen
+  - Arch Linux: `erlang`
+  - Debian: `erlang`
+  - Ubuntu: `erlang`
+  - NixOS: `erlang`
+  - Gentoo: `erlang`
 
-### Gibt es viele Pakete?
+## How awesome is the ecosystem?
 
-## Wie gut ist die offizielle Doku?
+[Erldocs](http://erldocs.com/) lists several libraries from asn1 to wxWidgets. They definitely tend towards networking and telecommunications.
 
-## Welche Lizenz?
+### Does the language have a package manager?
 
-## Gibt es gute Bücher darüber
+Inofficially, [Hex](https://hex.pm/).
 
-## Ist die sprache mature (gereift/stabil) 
+### Can I use modules from other languages?
 
-## Wie standardisiert ist die Sprache?
+It is possible to write erlang interfaces in C using [`erl_interface`](http://no-fucking-idea.com/blog/2013/02/05/building-ffi-extensions-in-erlang/).
 
-## Eigenschaften der Sprache
+There appears to have been an effort 2006--2008 for a [C FFI](http://muvara.org/crs4/erlang/ffi/), patches included.
 
-  - [ ] Imperativ
-  - [ ] Deklarativ/Funktional
+### Are there lots of packages?
+
+## How good are the official docs?
+
+There are definitely plenty.
+
+## What License?
+
+Erlang [is licensed under the](https://github.com/erlang/otp/blob/maint/README.md) Apache License 2.0
+
+## Are there good books?
+
+Several; See the ["Books" section on the site](https://www.erlang.org/docs)
+
+## Is the languag mature/stable?
+
+Probably, after twenty years? I'm not sure I'm ready to tell...
+
+## How standardised is the language?
+
+There's only one implementation.
+
+There is a "Core Initiative" by the U. of U. and Ericsson, with a (draft?) core language spec from 2004 [here](https://www.it.uu.se/research/group/hipe/cerl/doc/core_erlang-1.0.3.pdf).
+
+## Properties of the language
+
+  - [ ] Imperative
+  - [x] Deklarative/Functional
   
-  - [ ] Kompiliert
-  - [ ] ByteCode
-  - [ ] Skriptsprache
+  - [ ] Compiled
+  - [x] Byte Code/VM
+  - [x] Scripting language
 
-### Typsystem
+### Type system
 
-  - [ ] Statisch typisiert
-  - [ ] dynamisch typisiert
+  - [ ] statically typed
+  - [x] dynamically typed
   
-  - [ ] stark typisiert
-  - [ ] schwach typisiert
+  - [x] strongly typed
+  - [ ] weakly typed
   
-  - [ ] implizit typisiert (typinferenz)
-  - [ ] explizit typisiert
+  - [x] implicitly typed (typinferenz)
+  - [ ] explicitly typed
 
-## Fazit
+## Conclusion
 
-  - [ ] würde
-  - [ ] würde nicht
-
-
+  - [ ] would
+  - [ ] would not
+  - [x] would run away
