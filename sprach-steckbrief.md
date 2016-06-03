@@ -2,21 +2,21 @@
 
 ## Offizieller Name
 
-## Wie alt/neu
+## Wie alt/neu?
 
 ## Ist es gut paketiert? In welchem OS?
 
-## Wofür ist es da? Zweck? General purpose
+## Wofür ist es da? Zweck? General purpose?
 
 ## Wird die Sprache aktiv weiter entwickelt?
 
-## Wie groß ist die standard library
+## Wie groß ist die standard library?
 
 ## Wie toll ist das Ökossystem?
 
 ### Hat die Sprache einen Paketmanager?
 
-### Kann ich Module von anderen Sprachen nutzen
+### Kann ich Module von anderen Sprachen nutzen?
 
 ### Gibt es viele Pakete?
 
@@ -24,9 +24,9 @@
 
 ## Welche Lizenz?
 
-## Gibt es gute Bücher darüber
+## Gibt es gute Bücher darüber?
 
-## Ist die sprache mature (gereift/stabil) 
+## Ist die Sprache mature (gereift/stabil)?
 
 ## Wie standardisiert ist die Sprache?
 

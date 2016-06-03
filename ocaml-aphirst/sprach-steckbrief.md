@@ -14,7 +14,7 @@ Bei ArchLinux eigentlich ganz einfach.
 ### Hat die Sprache einen Paketmanager?
 Glaube ich noch nicht.
 
-### Kann ich Module von anderen Sprachen nutzen
+### Kann ich Module von anderen Sprachen nutzen?
 
 ### Gibt es viele Pakete?
 Scheint so zu sein.
@@ -26,7 +26,7 @@ Scheint so zu sein.
 ## Gibt es gute Bücher darüber
 Bestimmt, beispeilsweise das von Richi selbst.
 
-## Ist die sprache mature (gereift/stabil) 
+## Ist die Sprache mature (gereift/stabil)?
 
 ## Wie standardisiert ist die Sprache?
 
