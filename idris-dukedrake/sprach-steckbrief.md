@@ -49,4 +49,9 @@
   - [ ] würde
   - [ ] würde nicht
 
+## notes
+
+  - install GHC on Debian Wheezy like [here](http://www.extellisys.com/articles/haskell-on-debian-wheezy) (takes ~1,5 hrs)
+     - [Download GHC](https://www.haskell.org/ghc/download_ghc_8_0_1#linux_i386)
+     - [Download cabal](http://hackage.haskell.org/package/cabal-install)
 
