@@ -1,7 +1,8 @@
 # Sprach-STECKBRIEF !1111!!
 
 ## Offizieller Name
-    Julia
+Julia
+
 ## Wie alt/neu
   - First appeared 2012
   - also ziemlich neu 
@@ -41,43 +42,69 @@ http://pkg.julialang.org/
   - http://pkg.julialang.org/
 
 ## Wie gut ist die offizielle Doku?
+  - sieht gut aus:
+    - existiert
+    - einigermaßen umfangreich
+    - hübsch
+    - finde es verständlich
+    - read the docs style (sphinx)
+    - siehe: http://docs.julialang.org/en/release-0.4/manual/introduction/
 
 ## Welche Lizenz?
+> The core of the Julia implementation is licensed under the MIT license. Various libraries used by the Julia environment include their own licenses such as the GPL, LGPL, and BSD (therefore the environment, which consists of the language, user interfaces, and libraries, is under the GPL). 
+http://julialang.org/
 
 ## Gibt es gute Bücher darüber?
+    - gibt bücher, weiß nicht ob sie gut sind
+    - http://julialang.org/learning/
 
 ## Ist die Sprache mature (gereift/stabil)?
+    - kann ich nicht beurteilen momentan
+    - vermutlich aber eher nicht (erst 4 jahre alt)
 
 ## Wie standardisiert ist die Sprache?
+  - Es gibt keine Spezifikation: https://github.com/JuliaLang/julia/issues/4144
+  - Nur eine Implementierung
 
 ## Eigenschaften der Sprache
 
 * Paradigma
-  - [ ] Imperativ
-  - [ ] Deklarativ/Funktional
+  - [x] Imperativ
+  - [x] Deklarativ/Funktional
 * Evaluation
-  - [ ] Strictly Evaluated
+  - [x] Strictly Evaluated
   - [ ] Lazily Evaluated
 * Ausführen
-  - [ ] Kompiliert
-  - [ ] ByteCode
+  - [x] Kompiliert
+  - [x] ByteCode
   - [ ] Skriptsprache
 
 ### Typsystem
 
 * Eigenschaft 1
   - [ ] Statisch typisiert
-  - [ ] dynamisch typisiert
+  - [x] dynamisch typisiert
 * Eigenschaft 2
-  - [ ] stark typisiert
+  - [x] stark typisiert
   - [ ] schwach typisiert
 * Eigenschaft 3
-  - [ ] implizit typisiert (typinferenz)
+  - [x] implizit typisiert (typinferenz)
   - [ ] explizit typisiert
+
+## Kann man Julia auch kompilieren?
+  - Also der default ist scripte zu haben und auszuführen
+  - Julia kompiliert sie aber am anfang. und führt es dann aus.
+    - ähnlich wie perl und python, nur das python auch die pyc files speichert.
+    - und vermutlich ist der julia-vm code sehr viel low-leveliger
+  - Es gibt ein "system-image" das ist die kompilierte variante der Base library
+    - http://docs.julialang.org/en/release-0.4/devdocs/sysimg/
+    - also anscheinend kann man die dinge auch zu .so kompilieren
+    - wenn das mit dem system image geht, sollte das auch mit allem anderen gehen
+    - http://juliacomputing.com/blog/2016/02/09/static-julia.html
 
 ## Fazit
 
-  - [ ] würde
+  - [x] würde
   - [ ] würde nicht
 
 
