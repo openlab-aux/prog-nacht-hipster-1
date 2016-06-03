@@ -49,4 +49,9 @@
   - [ ] würde
   - [ ] würde nicht
 
+## installation notes
+
+  - install GHC like on Debian Wheezy [here](http://www.extellisys.com/articles/haskell-on-debian-wheezy)
+     - [Download GHC](https://www.haskell.org/ghc/download_ghc_8_0_1#linux_i386)
+     - [Download cabal](http://hackage.haskell.org/package/cabal-install)
 
