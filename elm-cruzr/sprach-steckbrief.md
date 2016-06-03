@@ -54,7 +54,18 @@ Yes, there's only one algorithm for which no package exists: `leftpad`.
 
 ## Wie gut ist die offizielle Doku?
 
-[Seems okay.](http://elm-lang.org/docs)
+~~[Seems okay.](http://elm-lang.org/docs)~~
+
+Alright, I could not even find how to compile my hello world program in the official docs. I had to read an SO post for that. For the benefit of the reader, I'll document the required steps here:
+
+ - Generate a elm-package.json file and install core library:
+    elm package install
+ - Install the `Html` library:
+    elm package install elm-lang/hmtl
+ - Compile an HTML file:
+    elm make hello-world.elm --output=hello-world.html
+
+Oh yeah, and it turns a 61B elm script into a 153K HTML+JS behemoth.
 
 ## What license is it released under?
 
