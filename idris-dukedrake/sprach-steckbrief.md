@@ -20,7 +20,7 @@
   [Ressources via idris-hackers repo](https://github.com/idris-hackers)
 
 ## Wie gut ist die offizielle Doku?
-  - [official dokumentation](http://docs.idris-lang.org/en/latest/effects/index.html)
+  - [official documentation](http://docs.idris-lang.org/en/latest/effects/index.html)
   - [official FAQ](http://docs.idris-lang.org/en/latest/faq/faq.html)
   - [unofficial FAQ](https://github.com/idris-lang/Idris-dev/wiki/Unofficial-FAQ)
 
@@ -28,8 +28,8 @@
   BSD-3
 
 ## Gibt es gute Bücher darüber
-  - [1](https://www.manning.com/books/type-driven-development-with-idris)
-  - [2](http://srchl.com/g/Seven+More+Languages+idris)
+  - [Type Driven Development with Idris](https://www.manning.com/books/type-driven-development-with-idris)
+  - [Seven More Languages](http://srchl.com/g/Seven+More+Languages+idris)
 
 ## Ist die sprache mature (gereift/stabil) 
   current version: 0.11
@@ -51,10 +51,10 @@
   - [X] Statisch typisiert
   - [ ] dynamisch typisiert
   
-  - [ ] stark typisiert
+  - [X] stark typisiert
   - [ ] schwach typisiert
   
-  - [ ] implizit typisiert (typinferenz)
+  - [X] implizit typisiert (typinferenz)
   - [ ] explizit typisiert
 
 ## Fazit
