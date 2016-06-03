@@ -12,18 +12,33 @@
     - also gut paketiert und aktuell in debian testing
 
 ## Wofür ist es da? Zweck? General purpose?
+    - primär: numerical and scientific computing
+    - ist aber angeblich auch gut als general purpose language
 
 ## Wird die Sprache aktiv weiter entwickelt?
-
+    - jep
+    
 ## Wie groß ist die standard library?
+    - wirkt nicht so umfangreich:
+    - http://docs.julialang.org/en/release-0.4/stdlib/
 
 ## Wie toll ist das Ökossystem?
 
 ### Hat die Sprache einen Paketmanager?
+    - jep hat einen eingebauten paketmanager
+
+```
+    Julia has a built-in package manager for installing add-on functionality written in Julia. It can also install external libraries using your operating system’s standard system for doing so, or by compiling from source. The list of registered Julia packages can be found at http://pkg.julialang.org. All package manager commands are found in the Pkg module, included in Julia’s Base install.
+```
+http://docs.julialang.org/en/release-0.4/manual/packages/
+http://pkg.julialang.org/
 
 ### Kann ich Module von anderen Sprachen nutzen?
-
+    - jep von python
 ### Gibt es viele Pakete?
+    - jep :)
+    - gibt 1010 pakete
+    - http://pkg.julialang.org/
 
 ## Wie gut ist die offizielle Doku?
 
